@@ -44,9 +44,11 @@ Detect the genre from the user's premise. Load the corresponding template from `
 | Urban (都市) | `urban.md` | Real-world setting, relationships, career |
 | Fantasy/Immortal (修仙) | `fantasy.md` | Power systems, realm progression, magical rules |
 | Suspense/Mystery (悬疑) | `suspense.md` | Clue pacing, red herrings, reveal timing |
-| Romance (言情) | `romance.md` | Relationship arcs, misunderstandings, resolution |
-| Sci-Fi (科幻) | `scifi.md` | Technology rules, world logic, future society |
-| Historical (历史) | `historical.md` | Period accuracy, power structures, language |
+| Romance (言情) | `romance.md` ✏️ | Relationship arcs, misunderstandings, resolution |
+| Sci-Fi (科幻) | `scifi.md` ✏️ | Technology rules, world logic, future society |
+| Historical (历史) | `historical.md` ✏️ | Period accuracy, power structures, language |
+
+✏️ = template coming soon (PRs welcome!)
 
 Multiple genres can blend (e.g., urban + suspense). Pick one primary, others as secondary.
 

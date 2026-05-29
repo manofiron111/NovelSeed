@@ -13,7 +13,7 @@ NovelSeed is an open-source AI agent that takes a single story premise and gener
 
 NovelSeed 会：
 
-1. 🎯 **检测类型** — 自动匹配悬疑模板
+1. 🎯 **检测类型** — 自动匹配模板
 2. ❓ **三层问答** — 帮你锁定核心设定
 3. 🌍 **世界观构建** — 72 项设定自动填充
 4. 👤 **人物设计** — 主角、反派、配角完整卡片
@@ -27,10 +27,6 @@ NovelSeed 会：
 将本仓库作为 Claude Code / Cursor / Hermes 等 AI Agent 的技能加载：
 
 ```bash
-# Claude Code
-/plugin marketplace add your-username/NovelSeed
-
-# 或手动
 git clone https://github.com/manofiron111/NovelSeed
 ```
 
@@ -48,6 +44,8 @@ git clone https://github.com/manofiron111/NovelSeed
 | 💕 言情 | `romance.md` | 感情线、误会、关系进阶 |
 | 🚀 科幻 | `scifi.md` | 科技规则、世界观逻辑 |
 | 📜 历史 | `historical.md` | 时代考证、权力结构 |
+
+*斜体表示模板待完善，欢迎 PR！*
 
 ## 核心方法论
 
@@ -69,8 +67,8 @@ NovelSeed/
 │       ├── ai-detection-patterns.md
 │       ├── quality-checklist.md
 │       └── ...
-├── examples/                 ← 示例（不含作者真实作品）
-└── docs/                     ← 架构文档
+├── .github/                  ← Issue/PR 模板
+└── AGENTS.md                 ← AI 贡献指南
 ```
 
 ## 贡献
@@ -87,4 +85,4 @@ NovelSeed/
 
 ---
 
-*NovelSeed is inspired by the Snowflake Method,番茄小说 writing guides, and open-source novel-writing tools. Made with ❤️ for storytellers.*
+*Inspired by the Snowflake Method, web-novel writing guides, and open-source storytelling tools. Made with ❤️ for storytellers.*
