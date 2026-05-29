@@ -31,7 +31,7 @@ NovelSeed 会：
 /plugin marketplace add your-username/NovelSeed
 
 # 或手动
-git clone https://github.com/your-username/NovelSeed
+git clone https://github.com/manofiron111/NovelSeed
 ```
 
 然后对 Agent 说：
