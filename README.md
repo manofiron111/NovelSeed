@@ -41,11 +41,11 @@ git clone https://github.com/manofiron111/NovelSeed
 | 🏙️ 都市 | `urban.md` | 现实背景、人际关系、职场 |
 | ⚔️ 修仙 | `fantasy.md` | 境界体系、力量规则、奇遇 |
 | 🔍 悬疑 | `suspense.md` | 线索节奏、反转设计、真相揭露 |
-| 💕 言情 | `romance.md` | 感情线、误会、关系进阶 |
-| 🚀 科幻 | `scifi.md` | 科技规则、世界观逻辑 |
-| 📜 历史 | `historical.md` | 时代考证、权力结构 |
+| 💕 言情 | `romance.md` ✏️ | 感情线、误会、关系进阶 |
+| 🚀 科幻 | `scifi.md` ✏️ | 科技规则、世界观逻辑 |
+| 📜 历史 | `historical.md` ✏️ | 时代考证、权力结构 |
 
-*斜体表示模板待完善，欢迎 PR！*
+> ✏️ = 模板待完善，欢迎 PR！
 
 ## 核心方法论
 

@@ -276,4 +276,3 @@ Every 100 chapters → Epic win (world changes, protagonist transformation)
 - `references/ai-detection-patterns.md` — 24 AI writing patterns and how to fix them
 - `references/quality-checklist.md` — Detailed quality scoring rubrics
 - `references/anti-template-rules.md` — Four iron rules + making characters feel alive + multi-character scenes
-- `references/snowflake-method.md` — Complete 12-step Snowflake Method walkthrough
